@@ -4,4 +4,4 @@ jc21/nginx-proxy-manager:latest
 mongo
 mongo-express
 nginx
-minio
+bitnami/minio
