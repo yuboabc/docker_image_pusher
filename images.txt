@@ -2,3 +2,4 @@ jc21/nginx-proxy-manager:latest
 minio/minio
 mzz2017/v2raya
 neosmemo/memos:0.23
+docker.gitea.com/gitea:1.25.3
